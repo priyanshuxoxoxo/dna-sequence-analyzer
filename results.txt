@@ -1,0 +1,16 @@
+
+DNA SEQUENCE ANALYSIS REPORT
+============================
+
+DNA Sequence: ATGCGATCGATCGATCG
+Sequence Length: 17 bp
+
+Nucleotide Count:
+A: 4
+T: 4
+G: 5
+C: 4
+
+GC Content: 52.94%
+RNA Sequence: AUGCGAUCGAUCGAUCG
+Reverse Complement: CGATCGATCGATCGCAT
